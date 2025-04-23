@@ -9,6 +9,8 @@
 </div>
 
 ---
+![snake gif](https://github.com/juninho15830/juninho15830/blob/output/github-contribution-grid-snake.gif)
+
 
 <p align="center">
   Estudante de Sistemas de Informação 2/8. Aqui você verá minhas experiências com programação. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
